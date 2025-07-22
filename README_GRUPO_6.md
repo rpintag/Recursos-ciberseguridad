@@ -4,7 +4,7 @@
 
 El repositorio [neftalito/Recursos-ciberseguridad](https://github.com/neftalito/Recursos-ciberseguridad) constituye una recopilación curada de **herramientas, recursos técnicos y documentación** útiles para profesionales y entusiastas de la ciberseguridad. Su contenido está orientado a ofrecer acceso rápido a:
 
-Adicionalmente me permito adicionar que se trata de una Guía en español con listados de herramientas OSINT, CTF, escalada de privilegios, payloads, cheat‑sheets y más.
+Adicionalmente me permito comentar que se trata de una Guía en español con listados de herramientas OSINT, CTF, escalada de privilegios, payloads, cheat‑sheets y más.
 
 - Herramientas de **OSINT** (Open Source Intelligence).
 - Recursos para **pentesting** y **escala de privilegios**.
