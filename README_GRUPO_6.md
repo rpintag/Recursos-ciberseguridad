@@ -41,7 +41,11 @@ El informe de *ENISA Threat Landscape* (2023) destaca que el uso de herramientas
 
 Gracias a su estructura basada en listas categorizadas y enlaces actualizados, es útil para dividir responsabilidades en grupos de trabajo: cada integrante puede explorar una categoría específica (OSINT, red, web, etc.), probar herramientas y reportar hallazgos.
 
----
+### 5. **Aplicaciones en la vida real**
+
+Para el desarrollo de estás aplicaciones se deb tomar en cuenta que uno de los campos de mayor aplicaicón son el bancario ya que se maneja una serie de datos de mucha importancia de los clientes que presenta una brecha de vulnerabilidades muy importante.
+
+--
 
 ## 📚 Fuentes y referencias consultadas
 
