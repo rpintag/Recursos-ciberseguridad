@@ -4,6 +4,8 @@
 
 El repositorio [neftalito/Recursos-ciberseguridad](https://github.com/neftalito/Recursos-ciberseguridad) constituye una recopilación curada de **herramientas, recursos técnicos y documentación** útiles para profesionales y entusiastas de la ciberseguridad. Su contenido está orientado a ofrecer acceso rápido a:
 
+Adicionalmente me permito comentar que se trata de una Guia en español con listados de herramientas OSINT, CTF, escalada de privilegios, payloads, cheat‑sheets y más.
+
 - Herramientas de **OSINT** (Open Source Intelligence).
 - Recursos para **pentesting** y **escala de privilegios**.
 - **CTF (Capture The Flag)** y laboratorios prácticos.
@@ -12,6 +14,7 @@ El repositorio [neftalito/Recursos-ciberseguridad](https://github.com/neftalito/
 
 Este compendio está en **español** y se actualiza regularmente con enlaces útiles para capacitación, práctica y referencias profesionales.
 
+Su objetivo es proporcionar un punto de partida accesible para estudiantes, profesionales y autodidactas interesados en fortalecer sus habilidades en ciberseguridad. Los contenidos abarcan desde fundamentos técnicos hasta herramientas avanzadas, incluyendo entornos prácticos (laboratorios, CTFs) y documentación confiable. Además, fomenta el aprendizaje autónomo y colaborativo, siendo una fuente viva de conocimiento que evoluciona con las necesidades del entorno digital actual.
 ---
 
 ## ✅ Justificación Técnica de la Elección
@@ -39,7 +42,11 @@ El informe de *ENISA Threat Landscape* (2023) destaca que el uso de herramientas
 
 Gracias a su estructura basada en listas categorizadas y enlaces actualizados, es útil para dividir responsabilidades en grupos de trabajo: cada integrante puede explorar una categoría específica (OSINT, red, web, etc.), probar herramientas y reportar hallazgos.
 
----
+### 5. **Aplicaciones en la vida real**
+
+Para el desarrollo de estás aplicaciones se deb tomar en cuenta que uno de los campos de mayor aplicaicón son el bancario ya que se maneja una serie de datos de mucha importancia de los clientes que presenta una brecha de vulnerabilidades muy importante.
+
+--
 
 ## 📚 Fuentes y referencias consultadas
 
