@@ -12,6 +12,7 @@ El repositorio [neftalito/Recursos-ciberseguridad](https://github.com/neftalito/
 
 Este compendio está en **español** y se actualiza regularmente con enlaces útiles para capacitación, práctica y referencias profesionales.
 
+Su objetivo es proporcionar un punto de partida accesible para estudiantes, profesionales y autodidactas interesados en fortalecer sus habilidades en ciberseguridad. Los contenidos abarcan desde fundamentos técnicos hasta herramientas avanzadas, incluyendo entornos prácticos (laboratorios, CTFs) y documentación confiable. Además, fomenta el aprendizaje autónomo y colaborativo, siendo una fuente viva de conocimiento que evoluciona con las necesidades del entorno digital actual.
 ---
 
 ## ✅ Justificación Técnica de la Elección
